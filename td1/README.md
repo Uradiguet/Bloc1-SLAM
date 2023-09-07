@@ -1,7 +1,10 @@
 # Markdown
 ## Quelques exemples
 ### Liste d'élements
-
--Element 1
--Element 2 
--Element 3
+#### Liste Non Ordonée
+- Element 1
+- Element 2 
+- Element 3
+#### Liste Ordonée
+- Element A
+- Element B

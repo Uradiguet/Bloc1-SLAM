@@ -6,5 +6,5 @@
 - Element 2 
 - Element 3
 #### Liste Ordonée
-- Element A
-- Element B
+1. Element A
+2. Element B

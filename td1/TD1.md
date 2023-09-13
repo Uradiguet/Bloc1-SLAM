@@ -17,4 +17,4 @@
 
 7) Le navigateur envoie plusieurs en-têtes http avec l'URL. Ces en-têtes décrivent les préférences de la personne.
 
-10) Il y a les en-têtes général (Requêtes et réponses), en-têtes de requête (Info de la ressource), en-têtes de réponse (Info sur l'emplacement ou le sujet du serveur) et en-tête d'entité (Info sur le corps de l'entité)
+10) 10.Il y a les en-têtes général (Requêtes et réponses), en-têtes de requête (Info de la ressource), en-têtes de réponse (Info sur l'emplacement ou le sujet du serveur) et en-tête d'entité (Info sur le corps de l'entité)

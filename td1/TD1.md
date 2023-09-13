@@ -13,13 +13,7 @@
 
 5) Elle se décompose en 5 partie le protocole (http), le sous-domaine (www), le nom du domaine principale (elysee), le domaine de deuxième niveau (.com/.net/.fr) et le répertoire (/ministre/intérieur/Darmanin)
 
-6) 200 : succès de la requête ;
-301 et 302 : redirection, respectivement permanente et temporaire ;
-401 : utilisateur non authentifié ;
-403 : accès refusé ;
-404 : ressource non trouvée ;
-500, 502 et 503 : erreurs serveur ;
-504 : le serveur n'a pas répondu.
+6) 200 : succès de la requête ; 301 et 302 : redirection, respectivement permanente et temporaire ; 401 : utilisateur non authentifié ; 403 : accès refusé ; 404 : ressource non trouvée ; 500, 502 et 503 : erreurs serveur ; 504 : le serveur n'a pas répondu.
 
 7) Le navigateur envoie plusieurs en-têtes http avec l'URL. Ces en-têtes décrivent les préférences de la personne.
 

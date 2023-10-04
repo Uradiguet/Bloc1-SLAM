@@ -1,0 +1,30 @@
+body{
+  margin: 5em;
+  justify-content: center;
+}
+
+.lire{
+  color : #CA6F1E;
+}
+
+div{
+  background-color: #F0F3F4;
+  padding: 1%;
+  margin: 15px;
+}
+
+.lireaussi{
+  margin-left: 5px;
+}
+
+.temps{
+  margin-left: 5px;
+}
+
+.titre2{
+  margin-left: 5px;
+}
+
+.intro{
+  margin-left: 5px;
+}

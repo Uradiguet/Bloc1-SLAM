@@ -1,0 +1,80 @@
+.main {
+    background-image: url("./../../images/df-min.jpg");
+    background-repeat: no-repeat;
+    background-size: 60% 80%;
+    background-position: center;
+    background-color: gray;
+    position: relative;
+}
+body {
+    font-family: 'Rubik', sans-serif;
+}
+.header {
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+    height: 200px;
+    background-color: #cc541d;
+    text-align: center;
+    border-radius: 10px;
+    color :#ffffff ;
+    box-shadow : 5px 5px 10px rgba(0, 0, 0, 0.5)
+}
+.font {
+    text-align: left;
+}
+.souligne {
+    text-decoration: underline;
+}
+
+.box {
+    padding-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    height: 200px;
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 3em;
+    width: 300px;
+    box-shadow : 5px 5px 10px rgba(0, 0, 0, 0.5)
+}
+.box1 {
+    margin-left: 10em;
+    margin-right: auto;
+}
+.box2 {
+    margin-left: 35em;
+    margin-right: auto;
+}
+.box3 {
+    margin-left: 60em;
+    margin-right: auto;
+}
+.box4 {
+    margin-left: 85em;
+    margin-right: auto;
+}
+.votre-icon-class {
+    fill: #cc541d;
+    width: 50px;
+    height: 50px;
+    margin-right: 200px;
+    background-color: #cc541d;
+    clip-path: inset(1% 1% round 15px);
+}
+.footer {
+    background-color: #000;
+    height: 25px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color:#ffffff;
+    text-align: center;
+    font-size: 8px;
+}

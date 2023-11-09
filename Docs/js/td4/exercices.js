@@ -9,7 +9,7 @@
 const $=function(id){
     return document.getElementById(id)
 }
-/*
+
 const bt = $("bt-bg");
 bt.addEventListener("click", function f() {
     const randomColor = Math.floor(Math.random()*16777215).toString(16);
@@ -21,7 +21,7 @@ bt.addEventListener("click", function f() {
 document.getElementById("bt-bg2").addEventListener("click", function(){
     const color = document.getElementById("select-color").value;
     document.body.style.backgroundColor=color;
-})*/
+})
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -36,9 +36,7 @@ add.addEventListener("click", function(){
             const li = document.createElement(elm.tagName=="SELECT"?"option":"li");
             li.innerText=$("select-text").value;
             elm.appendChild(li);
-        }
-    );
-    
+    });
 });
 
 
@@ -48,19 +46,44 @@ add.addEventListener("click", function(){
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
-
-
-
-
-
-
-
-
-
-
-
-
 
 $("bt-clear").addEventListener("click", function(){
     document.body.innerHTML="";

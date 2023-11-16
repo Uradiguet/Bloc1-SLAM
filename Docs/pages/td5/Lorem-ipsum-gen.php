@@ -27,7 +27,7 @@
 </style>
 <body>
 
-    <p style="color:<?=$color ?>; font-size:<?= $size?>px; <?=$italic?>; <?=$bold?>; font-family:<?=$font?>">
+    <p style="color:<?=$color ?>; font-size:<?= $size?>px; <?=$italic?>; <?=$bold?>">
         <?=$message?>
     </p>
 
